@@ -1,0 +1,24 @@
+{
+    "comision": {
+      "coordenadas": { "latitud": -34.851620, "longitud": -56.004840},
+      "lugar": "Comisión Fomento de Shangrilá",
+      "fecha": "13 de agosto y 9 de setiembre de 2022",
+      "especies": { "Arazá": 76, "Guayabo del País": 31 }
+    },
+  
+    "tranqueras": {
+      "coordenadas": { "latitud": -34.7931478, "longitud": -55.9247457 },
+      "lugar": "Parque Sin Tranqueras",
+      "fecha": "17 de setiembre de 2022",
+      "especies": {
+        "Canelón": 4,
+        "Guabiyú": 1,
+        "Guayabo del País": 5,
+        "Ombú": 4,
+        "Pitanga": 3,
+        "Rama Negra": 9,
+        "Ubajay": 1
+      }
+    }
+  }
+  
